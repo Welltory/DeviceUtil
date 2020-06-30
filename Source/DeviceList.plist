@@ -348,7 +348,7 @@
 	<key>iPad4,6</key>
 	<dict>
 		<key>name</key>
-		<string>iPad Mini Retina (Wi-Fi + Cellular CN)</string>
+		<string>iPad Mini Retina (Wi-Fi + Cellular)</string>
 		<key>version</key>
 		<real>4.5999999999999996</real>
 	</dict>
@@ -369,7 +369,7 @@
 	<key>iPad4,9</key>
 	<dict>
 		<key>name</key>
-		<string>iPad mini 3 (Wi-Fi/Cellular, China)</string>
+		<string>iPad mini 3 (Wi-Fi/Cellular)</string>
 		<key>version</key>
 		<real>4.9000000000000004</real>
 	</dict>
@@ -656,7 +656,7 @@
 	<key>iPhone11,6</key>
 	<dict>
 		<key>name</key>
-		<string>iPhone XS Max China</string>
+		<string>iPhone XS Max</string>
 		<key>version</key>
 		<real>11.6</real>
 	</dict>
